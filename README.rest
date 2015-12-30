@@ -1,0 +1,132 @@
+Hausverwaltung SaaS
+===================
+
+Market Size
+-----------
+
+* Total Available Market (TAM)
+* Served Addressable Market (SAM)
+* Target Market
+
+
+Market Type
+-----------
+
+* New Market
+* Existing Mrket
+* Resegmented Market
+* Cloned Market
+
+Business Model
+--------------
+Lean Canvas
+^^^^^^^^^^^^
+
++----------------+--------------------+------------------------------+----------------------+----------------------+
+|**PROBLEMS**    | **SOLUTION**       | **UNIQUE VALUE PROPOSITION** | **UNFAIR ADVANTAGE** | **CUSTOMER SEGMENT** |
+|**(1)**         | **(5)**            | **(4)**                      | **(7)**              | **(2)**              |
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
+|                +--------------------+                              +----------------------+                      +
+|                | **KEY METRIC**     |                              | **CHANNNELS**        |                      |
+|                | **(6)**            |                              | **(3)**              |                      |
+|                |                    |                              |                      |                      |    
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
+|                |                    |                              |                      |                      |
++----------------+--------------------+---------------+--------------+----------------------+----------------------+
+| **COST STRUCTURE**                                  | **REVENUE MODEL**                                          |
+| **(9)**                                             | **(8)**                                                    |
+|                                                     |                                                            |
+|                                                     |                                                            | 
+|                                                     |                                                            |
+|                                                     |                                                            |
++-----------------------------------------------------+------------------------------------------------------------+
+
+PROBLEMS(1)
+^^^^^^^^^^^
+
+CUSTOMER SEGMENT(2)
+^^^^^^^^^^^^^^^^^^^
+
+CHANNELS (3)
+^^^^^^^^^^^^
+
+Viral Marketing
+~~~~~~~~~~~~~~~
+
+PR
+~~
+
+Unconventional PR
+~~~~~~~~~~~~~~~~~
+
+SEM
+~~~
+
+Display Ads
+~~~~~~~~~~~
+
+Offline Ads
+~~~~~~~~~~~
+
+SEO
+~~~
+
+Content Marketing
+~~~~~~~~~~~~~~~~~
+
+Email Marketing
+~~~~~~~~~~~~~~~
+
+Engineering as Marketing
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Target Market Blogs
+~~~~~~~~~~~~~~~~~~~
+
+Business Development###1q
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sales
+~~~~~
+
+Affiliate Program
+~~~~~~~~~~~~~~~~~
+
+Existing Platforms
+~~~~~~~~~~~~~~~~~~
+
+Offline Events
+~~~~~~~~~~~~~~
+
+Trade Shows
+~~~~~~~~~~~
+
+Speaking Engagements
+~~~~~~~~~~~~~~~~~~~~
+
+Community Building
+~~~~~~~~~~~~~~~~~~
+
+UNIQUE VALUE PROPOSITION (4)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SOLUTION (5)
+^^^^^^^^^^^^
+
+KEY METRIC (6)
+^^^^^^^^^^^^^^
+
+UNFAIR ADVANTAGE (7)
+^^^^^^^^^^^^^^^^^^^^
+
+REVENUE MODEL (8)
+^^^^^^^^^^^^^^^^^
+
+COST STRUCTURE (9)
+^^^^^^^^^^^^^^^^^^
