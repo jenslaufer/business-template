@@ -70,7 +70,7 @@ Business Model
 
 ####COST STRUCTURE (9)
 
-### Business Model Canvas
+### [Business Model Canvas](businessmodelcanvas.rst)
 
 ####CUSTOMER SEGMENTS
 
