@@ -30,7 +30,7 @@ Market Type
 Business Model
 --------------
 
-### Lean Canvas
+### [Lean Canvas](leancanvas.rst)
 
 #### PROBLEMS(1)
 
