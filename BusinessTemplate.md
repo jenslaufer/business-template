@@ -1,9 +1,16 @@
 &lt;Project Name&gt;
 ====================
 
-Valuation of opportunity ———————– \* Urgency of the problem \* Adressability \* Price/margin opportunity \* Market size \* Feasibility
+Valuation of opportunity
+------------------------ 
+-   Urgency of the problem 
+-   Adressability 
+-   Price/margin opportunity 
+-   Market size 
+-   Feasibility
 
-Competitors ———-
+Competitors
+-----------
 
 Market Size
 -----------
@@ -51,36 +58,36 @@ Business Model
 -   Speaking Engagements
 -   Community Building
 
-### UNIQUE VALUE PROPOSITION (4)
+####UNIQUE VALUE PROPOSITION (4)
 
-### SOLUTION (5)
+####SOLUTION (5)
 
-### KEY METRIC (6)
+####KEY METRIC (6)
 
-### UNFAIR ADVANTAGE (7)
+####UNFAIR ADVANTAGE (7)
 
-### REVENUE MODEL (8)
+####REVENUE MODEL (8)
 
-### COST STRUCTURE (9)
+####COST STRUCTURE (9)
 
 ### Business Model Canvas
 
 ### CUSTOMER SEGMENTS
 
-### VALUE PROPOSITIONS
+####VALUE PROPOSITIONS
 
-### CHANNELS
+####CHANNELS
 
-### CUSTOMER RELATIONSHIPS
+####CUSTOMER RELATIONSHIPS
 
-### REVENUE MODELS
+####REVENUE MODELS
 
-### KEY PARTNERSHIPS
+####KEY PARTNERSHIPS
 
-### KEY ACTIVITIES
+####KEY ACTIVITIES
 
-### KEY RESOURCES
+####KEY RESOURCES
 
-### KEY PARTNERSHIPS
+####KEY PARTNERSHIPS
 
-### COST STRUCTURE
+####COST STRUCTURE
