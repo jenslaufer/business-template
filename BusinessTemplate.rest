@@ -1,6 +1,15 @@
 <Project Name>
 ==============
 
+Valuation of opportunity
+-----------------------
+* Urgency of the problem
+* Adressability
+* Price/margin opportunity
+* Market size
+* Feasibility 
+
+
 Market Size
 -----------
 
