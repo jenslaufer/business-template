@@ -72,7 +72,7 @@ Business Model
 
 ### Business Model Canvas
 
-### CUSTOMER SEGMENTS
+####CUSTOMER SEGMENTS
 
 ####VALUE PROPOSITIONS
 
